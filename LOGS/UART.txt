@@ -1,0 +1,30 @@
+MAIX Bootloader Stage 1 @Core0
+Build: d0d779de
+SRAM Test OK from 0x40400000 to 0x405FFFFF
+SRAM Test OK from 0x40600000 to 0x407FFFFF
+MAIX Bootloader Stage 2 @Core0
+Build: d0d779de
+SRAM Test OK from 0x40000000 to 0x403FFFFF
+000002.140 Initialize hardware configuration now...
+000002.152 Product: AvalonMiner 1066Pro-64L
+000002.156 HW: MM3v2_X3
+000002.158 SW: MM314
+000002.161 Software: 21022601_4ec6bb0_5f74eef
+000002.165 Loader: d0d779de.00
+000002.168 Chip type is A3201 == A3201
+000002.172 Board Info: Board h40x3x3_f4, Hash 40x3, Fan 4
+000002.178 DNA: 020100009fa05048
+000002.182 Initialize network configuration now...
+000002.189 Initialize system configuration now...
+000002.274 Initialize product configuration now...
+000002.322 Both saved configuration failed
+000002.326 Get saved product configuration failed, use default
+000002.332 workmode[0]
+000002.335 workmode[1]
+000002.337 Initialize auto adjusting arguments now...
+000002.387 workmode[0] --avalon10-freq 448:468:488:508 --avalon10-voltage-level 54
+000002.395 workmode[1] --avalon10-freq 448:468:488:508 --avalon10-voltage-level 81
+000002.404 max_voltage_limit[87]
+000002.407 max_power_limit[3200]
+000002.411 Initialize chip info now...
+000002.446 WorkMode: High PerformanceL
